@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Unity Jiysi Application</string>
+    <string name="game_view_content_description" tools:ignore="MissingTranslation">Game view</string>
+</resources>
